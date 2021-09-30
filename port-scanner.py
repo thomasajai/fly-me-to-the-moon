@@ -4,7 +4,7 @@ Output of this program will look like this
 [-_0 Scanning Target] 192.168.xx.xx
 [+] Open Port 22 : SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1
 [+] Open Port 80
-c
+co
 """
 
 import socket
