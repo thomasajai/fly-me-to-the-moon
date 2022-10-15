@@ -1,3 +1,6 @@
+Igditd
+Kgdigdigdi
+Igditdiy
 """
 Output of this program will look like this
 [+] Enter Target/s to scan (split multiple targets with ,): 192.168.xx.xx
