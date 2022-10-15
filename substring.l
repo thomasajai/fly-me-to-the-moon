@@ -18,3 +18,6 @@ int main(){
 	yylex();
 	return 0;
 }
+Kigditd
+Khckdoy
+Hfu
