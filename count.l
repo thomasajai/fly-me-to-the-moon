@@ -18,4 +18,4 @@ int main(){
 	printf("\ncharacters = %d",chars);
 	printf("\nlines = %d\n",lines);
 	return 0;
-}
+}// trading 123
